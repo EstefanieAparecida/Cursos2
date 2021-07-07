@@ -10,7 +10,7 @@ public class Exer38 {
 		System.out.println(v1);
 		
 		final int v2 = 50;
-		//v2 =60; //java não vai deixar
+		//v2 =60; //java não vai deixar pq variavel é final.
 		System.out.println(v2);
 
 	}
